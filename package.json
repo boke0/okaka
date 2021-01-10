@@ -1,0 +1,15 @@
+{
+  "name": "okaka",
+  "version": "1.0.0",
+  "description": "Material UI framework for Omusubi.js",
+  "main": "okaka.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "木瓜丸 <https://boke0.netlify.app/> (https://boke0.netlify.app)",
+  "license": "ISC",
+  "devDependencies": {
+    "omusubi-js": "^1.0.0"
+  }
+}
